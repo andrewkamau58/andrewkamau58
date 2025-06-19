@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning full stack dev
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me Instagram@ hhtps_.mwangi
+- 📫 How to reach me Instagram@ heismwangi
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Software Engineering student, ofcourse I don't know how to swim
 <!---
